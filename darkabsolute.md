@@ -16,4 +16,6 @@
 - Fullmetal alchemist brotherhood
 - Infinity Stratos
 - Clannad first and second session 
-- etc... 
+- etc...
+
+- curently learning ruby on rails as a programming language 
