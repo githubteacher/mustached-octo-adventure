@@ -9,3 +9,5 @@ We will be adding to it as the day goes on, but for now this is descriptive enou
 - San Francisco, California
 - Favorite Basketball team: Golden State Warriors
 - Favorite restaurant: Fat Angel
+  - This food is small plates and mostly italian
+  - They also have wine on tap
