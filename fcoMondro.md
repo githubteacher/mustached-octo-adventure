@@ -1,4 +1,4 @@
-# GitHub Mondro
+# GitHub Local Mondro
 This file describes the @FcoMondro user
 
 We will be adding to it as the day goes on, but for now this descrives enough.
@@ -10,6 +10,6 @@ We will be adding to it as the day goes on, but for now this descrives enough.
 - I like Rock music
 - My favorite food is sushi
 	- My favorite place to eat sushi is Okuma
-- I was born in Tecoman, Colima
+- I was born in Tecoman, Colima, México
 - I don't like sports
 - I'm currently working in a C# compiler for a test with a professor
