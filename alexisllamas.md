@@ -17,3 +17,6 @@ My favorite brans of beer are:
 Reasons why I hate you:
 - You're not me
 - You're breathing
+
+
+#I HATE PHP
