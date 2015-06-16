@@ -1,4 +1,4 @@
-#GitHub Teacher
+#GitHub Student Great
 This file will help you to Describe you
 
 -Im living in Colima Mexico
