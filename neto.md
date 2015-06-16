@@ -9,4 +9,7 @@ My favorite programming language is ruby <3
 -Cancun.
 -Los amiales.
 -La piedra cuetiada.
+-Tijuana. 
+-Can-Cuyu.
+
 
