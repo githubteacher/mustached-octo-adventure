@@ -11,7 +11,7 @@ My favorite type of trains are:
 - Freight train
 - Container trains
 
-My favorite brans of beer are:
+My favorite brands of beer are:
 - All
 
 Reasons why I hate you:
