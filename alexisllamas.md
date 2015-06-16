@@ -18,5 +18,6 @@ Reasons why I hate you:
 - You're not me
 - You're breathing
 
+I love Ruby <3
 
 #I HATE PHP
