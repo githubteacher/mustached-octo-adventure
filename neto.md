@@ -12,4 +12,6 @@ My favorite programming language is ruby <3
 -Tijuana. 
 -Can-Cuyu.
 
+##Lenguage than I'm learnign 
+-Ruby
 
