@@ -1,4 +1,4 @@
-## Diego Avalos (Changed)
+## Diego Avalos (Both web and local)
 Hi, I'm Diego.
 I like beer.
 
