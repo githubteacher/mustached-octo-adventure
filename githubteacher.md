@@ -11,3 +11,4 @@ We will be adding to it as the day goes on, but for now this is descriptive enou
 - Favorite restaurant: Fat Angel
   - This food is small plates and mostly italian
   - They also have wine on tap
+- Curently learning Go (golang) as a programming language
