@@ -9,4 +9,10 @@
 - Final Fantasy XIII 1 and 2
 - Hyperdimention neptunia 1 and 2
 - Ori
+- etc...
+
+- My favorites animes and mangas:
+- Fullmetal alchemist brotherhood
+- Infinity Stratos
+- Clannad first and second session 
 - etc... 
