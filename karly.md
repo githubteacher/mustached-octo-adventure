@@ -20,4 +20,6 @@ We will be adding to it as the day goes on, but for now this descriptive enough
 
 - My love mexican food <3
 
-- My favorites programming languajes are C#, Ruby and Java 
+- My favorites programming languajes are C# and Java
+
+- Curently learning RoR(Ruby on Rails) as a programing Language 
