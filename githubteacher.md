@@ -1,4 +1,4 @@
-# GitHub Teacher
+# GitHub Local Teacher
 This file describes the @githubteacher user
 
 We will be adding to it as the day goes on, but for now this is descriptive enough.
@@ -6,9 +6,9 @@ We will be adding to it as the day goes on, but for now this is descriptive enou
 - My favorite programming language is Ruby
 
 ## Hometown information
-- San Francisco, California
+- San Francisco, California, USA
 - Favorite Basketball team: Golden State Warriors
-- Favorite restaurant: Fat Angel
+- Favorite restaurant: Fat Angel, in the Fillmore District
   - This food is small plates and mostly italian
   - They also have wine on tap
 - Curently learning Go (golang) as a programming language
