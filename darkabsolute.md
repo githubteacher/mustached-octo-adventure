@@ -18,4 +18,6 @@
 - Clannad first and second session 
 - etc...
 
-- curently learning ruby on rails as a programming language 
+- curently learning ruby on rails as a programming language
+
+- extra 
