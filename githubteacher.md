@@ -1,4 +1,4 @@
-# GitHub Teacher(Local Change)
+# GitHub Teacher (Both web and local)
 This file describes the @githubteacher user
 
 We will be adding to it as the day goes on, but for now this is descriptive enough.
