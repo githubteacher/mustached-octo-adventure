@@ -1,4 +1,4 @@
-- My favorites lenguages of programming (local change)-
+- My favorites lenguages of programming (local and web changes)-
 - Android :D
 - Javascript
 - etc...
